@@ -70,22 +70,6 @@
     border-radius: 10px;
 }
 
-.fullscreen:-webkit-full-screen {
-  width: auto !important;
-  height: auto !important;
-  margin:auto !important;
-}
- .fullscreen:-moz-full-screen {
-  width: auto !important;
-  height: auto !important;
-  margin:auto !important;
-}
- .fullscreen:-ms-fullscreen {
-  width: auto !important;
-  height: auto !important;
-  margin:auto !important;
-} 
-
 @media (min-width: 768px) {
   .form {
     grid-template-columns: auto 1fr auto;
